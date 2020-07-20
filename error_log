@@ -1,6 +1,0 @@
-[20-Jul-2020 20:03:13 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/sliceofc/work-at-home-online.xyz/index.php on line 137
-[20-Jul-2020 20:03:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sliceofc/work-at-home-online.xyz/index.php on line 138
-[20-Jul-2020 20:04:36 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/sliceofc/work-at-home-online.xyz/index.php on line 137
-[20-Jul-2020 20:04:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sliceofc/work-at-home-online.xyz/index.php on line 138
-[20-Jul-2020 20:05:32 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/sliceofc/work-at-home-online.xyz/index.php on line 137
-[20-Jul-2020 20:05:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sliceofc/work-at-home-online.xyz/index.php on line 138

@@ -9,7 +9,7 @@ $geoplugin = new geoPlugin();
 /* 
 Notes:
 
-The default base currency is USD (see http://www.geoplugin.com/webservices:currency ).
+The default base currency is USD 
 You can change this before the call to geoPlugin::locate with eg:
 $geoplugin->currency = 'EUR';
 
